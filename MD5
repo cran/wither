@@ -1,0 +1,11 @@
+884b78d0173029f187d95275bad6e418 *DESCRIPTION
+8cd2834f5416bfc3ea7221e2a1639aa1 *LICENSE
+6a615672106993f7b1ab15bb59cdf1d5 *NAMESPACE
+73b57549291cdcd2cae96112049845ae *NEWS.md
+2c0ec21b85167407aa03df1567523d86 *R/here.R
+9e706a51de52ae6d47428ad3ea0824b8 *README.md
+e86146f29d27bbaf7161990c216610dc *man/with_here.Rd
+36c658b1ae012bf00f8091568ae3a92c *tests/testthat.R
+19f5a995cd140f56bdedc2eee483ffa1 *tests/testthat/helpers.R
+0705ee89c5679ae9544816cb25921c55 *tests/testthat/test-local_here.R
+2e4b58e3e7ae19b87294634310b2c37e *tests/testthat/test-with_here.R
